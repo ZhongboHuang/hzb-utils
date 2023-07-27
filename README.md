@@ -3,5 +3,5 @@
 ## 安装
 
 ```shell
-npm i -g hzb-utils
+npm i hzb-utils-box
 ```
